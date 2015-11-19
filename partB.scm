@@ -1,0 +1,7 @@
+(first '(c d e))
+(list-tail '(1 2 c) 1)
+(append '(c) '(e f))
+(list '(3 2) '(b c))
+(append (list '(bike feet)) '(car bus))
+(car (cdr '(horse dog cat)))
+(cadr '(horse dog cat))
